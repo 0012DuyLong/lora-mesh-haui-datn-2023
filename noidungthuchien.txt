@@ -1,0 +1,7 @@
+Đồ án: Xây dựng mô hình mạng cảm biến xử dụng truyền thông không dây
+
+- Sử dụng giao thức truyền thông LoRa ứng dụng mô hình mạng lưới (mesh).
+
+- Biến tất cả các node cảm biến trở thành các trạm trung chuyển được lấy ý tưởng từ file gif đính kèm.
+
+- Đọc dữ liệu cảm biến qua Arduino Nano.

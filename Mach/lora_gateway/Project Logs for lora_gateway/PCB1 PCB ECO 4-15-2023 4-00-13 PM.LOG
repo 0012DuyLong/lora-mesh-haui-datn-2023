@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=BUZZER Pin=Arduino1-D3
+Removed Pin From Net: NetName=LED Pin=Arduino1-D8
+Added Pin To Net: NetName=LED Pin=Arduino1-D3
+Added Pin To Net: NetName=BUZZER Pin=Arduino1-D8
+Added Room: Name=Sheet1

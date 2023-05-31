@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=BUTTON Pin=Arduino1-D4
+Removed Pin From Net: NetName=OUT2 Pin=Arduino1-D6
+Removed Pin From Net: NetName=OUT1 Pin=Arduino1-D7
+Removed Pin From Net: NetName=BUZZER Pin=Arduino1-D8
+Added Pin To Net: NetName=OUT1 Pin=Arduino1-A2
+Added Pin To Net: NetName=OUT2 Pin=Arduino1-A3
+Added Pin To Net: NetName=BUZZER Pin=Arduino1-D7
+Added Pin To Net: NetName=BUTTON Pin=Arduino1-D8
+Added Room: Name=Sheet1

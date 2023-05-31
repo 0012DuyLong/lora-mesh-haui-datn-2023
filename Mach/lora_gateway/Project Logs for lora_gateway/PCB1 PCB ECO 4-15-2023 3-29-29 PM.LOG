@@ -1,0 +1,18 @@
+Added Component: Designator=U1(Lora02-sx1278)
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=3V3 Pin=U1-3
+Added Pin To Net: NetName=LORA_RST Pin=U1-4
+Added Pin To Net: NetName=DIO0 Pin=U1-5
+Added Pin To Net: NetName=DIO1 Pin=U1-6
+Added Pin To Net: NetName=DIO2 Pin=U1-7
+Added Pin To Net: NetName=DIO3 Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=NSS Pin=U1-10
+Added Pin To Net: NetName=MOSI Pin=U1-11
+Added Pin To Net: NetName=MISO Pin=U1-12
+Added Pin To Net: NetName=SCK Pin=U1-13
+Added Pin To Net: NetName=DIO5 Pin=U1-14
+Added Pin To Net: NetName=DIO4 Pin=U1-15
+Added Pin To Net: NetName=GND Pin=U1-16
+Added Member To Class: ClassName=Sheet1 Member=Component U1 Lora-02 SX1278

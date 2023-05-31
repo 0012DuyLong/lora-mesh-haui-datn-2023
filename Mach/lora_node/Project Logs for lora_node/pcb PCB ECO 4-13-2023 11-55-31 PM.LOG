@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=BUTTON Pin=Arduino1-D7
+Added Pin To Net: NetName=BUTTON Pin=Arduino1-D4
+Added Pin To Net: NetName=BUTTON Pin=JP4-2
+Added Member To Class: ClassName=sch Member=Component C1 CN-ALU-DIP
+Added Member To Class: ClassName=sch Member=Component C2 Capacitor Ceramic
+Added Member To Class: ClassName=sch Member=Component JP4
+Added Room: Name=sch
